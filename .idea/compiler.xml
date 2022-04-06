@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-types-of-wiring" target="17" />
+      <module name="spring-types-of-wiring" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
